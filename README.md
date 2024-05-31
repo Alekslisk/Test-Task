@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
 
-    git clone https://github.com/yourusername/rick-and-morty-character-viewer.git
+    git clone [https://github.com/yourusername/rick-and-morty-character-viewer.git](https://github.com/Alekslisk/Test-Task.git)
     cd rick-and-morty-character-viewer
 
 
