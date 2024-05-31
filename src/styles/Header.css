@@ -1,0 +1,24 @@
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(90deg, #ff416c, #ff4b2b);
+    padding: 20px;
+  }
+  
+  .app-header img {
+    height: 50px;
+  }
+  
+  .app-header nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.2em;
+    transition: color 0.3s;
+  }
+  
+  .app-header nav a:hover {
+    color: #ffeb3b;
+  }
+  
